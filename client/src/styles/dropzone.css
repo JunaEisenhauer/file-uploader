@@ -1,0 +1,8 @@
+.dropzone {
+    border: 2px dashed !important;
+    height: 100px !important;
+}
+
+.highlighted {
+    background-color: azure !important;
+}
